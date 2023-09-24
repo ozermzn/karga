@@ -1,7 +1,7 @@
 import Image from "next/image";
 import mentor from "../../images/mentor.png";
 import mobile from "../../images/mobileCombustion.png";
-import BorderBottom from "../ui/borderBottom";
+import BorderBottom from "../ui/BorderBottom";
 import Button from "../ui/Button";
 const Form = () => {
   return (
